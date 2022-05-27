@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CI_CD_FundooNotes": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7061",
+      "launchBrowser": false
+    }
+  }
+}
